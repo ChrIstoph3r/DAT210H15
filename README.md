@@ -37,7 +37,7 @@ Tekniske disipliner
 SOLID prinsippene
 
 
-----
+---- Solid
 
 
 
